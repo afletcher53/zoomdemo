@@ -1,29 +1,9 @@
-# poc
+# Zoom Demon
 
-## Project setup
-```
-npm install
-```
+# Install
+```  yarn install ```
+Set Zoom API keys in .env / .env.local
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#Serve
+``` yarn serve```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
